@@ -1,0 +1,5 @@
+user_id,question_id,response,correct,response_time
+1,1,4,True,10
+1,2,Paris,True,15
+2,3,2,True,20
+2,4,George Orwell,True,25

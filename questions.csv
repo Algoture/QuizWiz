@@ -1,0 +1,13 @@
+question_id,question_text,difficulty_level,correct_answer,topic,is_mcq
+1,What is 2 + 2?,easy,4,Math,True
+2,What is the capital of France?,easy,Paris,Geography,True
+3,Solve for x: 2x + 3 = 7,medium,2,Math,True
+4,Who wrote '1984'?,medium,George Orwell,Literature,True
+5,Explain the theory of relativity.,hard,Albert Einstein,Physics,False
+6,What is the formula for water?,easy,H2O,Chemistry,True
+7,Which planet is known as the Red Planet?,medium,Mars,Astronomy,True
+8,What is the chemical symbol for gold?,medium,Au,Chemistry,True
+9,What is the powerhouse of the cell?,easy,Mitochondria,Biology,True
+10,Which element has the atomic number 1?,easy,Hydrogen,Chemistry,True
+11,What is the derivative of x^2?,hard,2x,Math,True
+12,Who developed the theory of general relativity?,hard,Albert Einstein,Physics,True
