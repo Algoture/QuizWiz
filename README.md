@@ -1,2 +1,2 @@
 # QuizWiz
-Adaptive Learning System
+AI Adaptive Learning System
